@@ -1,0 +1,24 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libvirglrenderer-x86_64-v2.so.so",
+		    "libdummy_binary_libvirglrenderer.a-x86_64-v2.so",
+		    "libdummy_binary_libvirglrenderer.a.so",
+		    "libdummy_binary_libvirglrenderer.so.so",
+		    "libdummy_ext_virglrenderer-x86_64-v2.so",
+		    "libdummy_ext_virglrenderer.so",
+		    "libdummy_headers_ext_virglrenderer-x86_64-v2.so",
+		    "libdummy_headers_ext_virglrenderer.so"
+	],
+	"requireLibs": [	
+		    "libc++_shared.so",
+		    "libc.so",
+		    "libcutils.so",
+		    "libdl.so",
+		    "libdrm.so",
+		    "libepoxy.so",
+		    "libgbm_mesa.so",
+		    "liblog.so",
+		    "libm.so"
+	],
+	"visible": true
+}
